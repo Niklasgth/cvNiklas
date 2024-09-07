@@ -1,0 +1,16 @@
+.background1{background-color: green;}
+.background2{background-color: goldenrod;}
+
+.green{color: green;}
+.gold {color: goldenrod;}
+
+.font1{font-family:Verdana, Geneva, Tahoma, sans-serif;}
+.font2{font-family: 'Times New Roman', Times, serif;}
+
+.body {background-color:green; 
+ color: goldenrod;
+font-family: 'Times New Roman', Times, serif; } 
+
+.header {background-color: goldenrod;
+color: green;
+font-family: 'Times New Roman', Times, serif;}
