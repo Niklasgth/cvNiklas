@@ -1,5 +1,6 @@
 .background1{background-color: green;}
 .background2{background-color: goldenrod;}
+.background3{background-color: darkgreen;}
 
 .green{color: green;}
 .gold {color: goldenrod;}
@@ -7,10 +8,57 @@
 .font1{font-family:Verdana, Geneva, Tahoma, sans-serif;}
 .font2{font-family: 'Times New Roman', Times, serif;}
 
-.body {background-color:green; 
+.back1 {background-color:green; 
  color: goldenrod;
 font-family: 'Times New Roman', Times, serif; } 
 
-.header {background-color: goldenrod;
+.back2 {background-color: goldenrod;
 color: green;
 font-family: 'Times New Roman', Times, serif;}
+
+/*logga design*/
+#loggan
+{color:goldenrod;
+font-size:xx-large;
+display: flex;
+justify-content: center;
+align-items: center;
+border-radius: 5px;
+}
+
+.buttstyle {
+background-color: darkgreen;
+color: goldenrod;font-size: large ;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+border-radius: 25rem;
+    }
+
+.container {
+    border: solid goldenrod;
+    width: 400px;
+    padding:5px;
+    margin: 0px;
+    }
+
+.textcontainer{
+    text-align: center;
+}
+
+.center {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    }
+
+.nav{background-color: goldenrod;
+    color: green;
+    padding: 50px;
+    font-family: 'Times New Roman', Times, serif;
+    }
+
+.foothead{
+    background-color:goldenrod;
+    color: darkgreen;
+    text-align: left;
+    font-size: medium;
+}
